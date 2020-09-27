@@ -6,7 +6,7 @@ This is still in development. This is my personal project developed to make easy
 
 ## Getting Started
 
-- Step 1: Clone the repository `git clone https://github.com/sureshHARDIYA/portfolio.git`
+- Step 1: Clone the repository `git clone git@github.com:gitexpert718/portfolio-react-redux.git`
 - Step 2: CD into `portfolio`
 - Step 3: `yarn`
 - Step 4: `yarn start`
